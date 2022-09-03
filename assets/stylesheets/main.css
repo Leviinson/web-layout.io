@@ -122,9 +122,6 @@ code {
   transform: scale(95%);
 }
 
-#dropdown_salons_list {
-}
-
 #dropdown_salons_list_header_wrapper {
   display: flex;
   align-items: center;
@@ -390,8 +387,6 @@ code {
   color: #fff;
 }
 
-#patents {
-}
 
 #patents_header {
   display: inline-block;
@@ -405,9 +400,6 @@ code {
   align-items: flex-end;
 }
 
-#achievements_wrapper {
-}
-
 #achievements_block_1 {
   padding-top: 45px;
 }
@@ -416,9 +408,6 @@ code {
   display: flex;
   align-items: center;
   max-width: 214px;
-}
-
-.scroll_achievements_blocks {
 }
 
 .achievement_number {
