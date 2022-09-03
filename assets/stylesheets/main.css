@@ -63,7 +63,7 @@ code {
 }
 
 #providing_container {
-  max-width: 1295px;
+  width: 1295px;
   margin: 0px auto;
   position: relative;
   z-index: 1;
@@ -531,6 +531,7 @@ code {
 
 .news_content_list {
   margin: 0;
+  padding-left: 20px;
 }
 
 .news_content {
@@ -584,6 +585,7 @@ code {
 }
 
 .offer {
+  max-width: 306px;
   position: relative;
   display: flex;
   flex-direction: column;
