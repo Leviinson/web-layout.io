@@ -744,6 +744,7 @@ code {
 }
 
 #privacy_policy_link {
+  white-space: nowrap;
 }
 
 #basement_visually_impaired_mode_button {
