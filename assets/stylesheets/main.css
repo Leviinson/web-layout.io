@@ -744,7 +744,6 @@ code {
   padding: 0 30px;
   border: 2px solid rgba(196,196,196, 0.3);
   transition: box-shadow .3s ease-in-out;
-  overflow: hidden;
 }
 
 .basement_info:not(:first-child):hover {
@@ -752,6 +751,7 @@ code {
 }
 
 #basement_copyrights_column {
+  overflow: hidden;
 }
 
 #copyrights {
